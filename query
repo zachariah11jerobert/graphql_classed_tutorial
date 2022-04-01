@@ -1,0 +1,10 @@
+query{
+    sayHi
+}
+
+query{
+  getPosts{
+    body
+    username
+  }
+}
